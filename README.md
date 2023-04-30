@@ -1,4 +1,4 @@
-# YourDailyAffirmation
+# PositivityPilot
 A beginner level project but i hope you like it.
 
 https://gunjanverma.shinyapps.io/app1/ <3
